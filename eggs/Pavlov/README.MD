@@ -4,8 +4,8 @@
 
 Once imported the best/default ports to open in your Pterodactyl Node & Modem are,
 
-		<stong>Port 7777 UDP</strong> - Pavlov Server
-		<stong>Port 8177 UDP</strong> - Pavlov Listen
+		Port 7777 UDP - Pavlov Server
+		Port 8177 UDP - Pavlov Listen
 	
 When you create your server make sure you uncheck the "Start Server when Installed" as the install does not create a basic config,
 To create a basic config navigate to your servers "File Management" and goto 'Pavlov/Saved/Config/LinuxServer/'.
