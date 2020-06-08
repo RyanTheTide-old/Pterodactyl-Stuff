@@ -1,3 +1,4 @@
+<html>
 <h1>This document will highlight some key information, please read over it all before attempting to deploy your server.</h1>
 <br>
 Once imported the best/default ports to open in your Pterodactyl Node & Modem are,
@@ -42,3 +43,4 @@ To generate a Game.ini for you.
    <img src="https://img.shields.io/badge/Reddit-%23cee3f8.svg?logo=reddit" alt="Reddit">
    </a>
 </p>
+</html>
