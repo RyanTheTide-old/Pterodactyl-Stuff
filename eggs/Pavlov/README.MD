@@ -1,7 +1,7 @@
 # Pterodactyl Pavlov Egg
 ## This document will highlight some key information, please read over it all before attempting to deploy your server.
 
-<i><a hfref="http://wiki.pavlov-vr.com/index.php?title=Dedicated_server">Pavlov Reference</a></i>
+<i><a href="http://wiki.pavlov-vr.com/index.php?title=Dedicated_server">Pavlov Reference</a></i>
 <i><a href="https://pterodactyl.io/community/config/eggs/creating_a_custom_egg.html">Pterodactyl Refrence</a></i>
 
 Once imported the best/default ports to open in your Pterodactyl Node & Modem are,
